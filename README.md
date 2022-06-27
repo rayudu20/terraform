@@ -1,1 +1,1 @@
-# terraform
+# terraform for EC2
